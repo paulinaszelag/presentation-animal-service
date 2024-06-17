@@ -1,0 +1,16 @@
+# Animals
+# Categories: Mammals, Reptiles
+
+# Mammals
+Cat
+Dog
+Horse
+Tiger
+Elephant
+Kangaroo
+
+# Reptiles
+Snake
+Crocodile
+Turtle
+Lizard
