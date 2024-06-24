@@ -1,7 +1,7 @@
 This is the Animal Service Application created on the presentation purposes. 
 The application is created using the Spring Boot framework and Cucumber for E2E testing.
 
-I recommend using the IntelliJ IDEA to run the application and tests.
+I recommend using the IntelliJ IDEA and Java 20 to run the application and tests.
 
 ## How to run the application
 1. Clone the repository
