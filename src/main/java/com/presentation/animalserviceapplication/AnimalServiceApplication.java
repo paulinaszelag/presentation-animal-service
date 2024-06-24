@@ -1,4 +1,4 @@
-package com.paramount.animalserviceapplication;
+package com.presentation.animalserviceapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

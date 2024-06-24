@@ -1,4 +1,4 @@
-package com.paramount.animalserviceapplication;
+package com.presentation.animalserviceapplication;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

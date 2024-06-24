@@ -1,4 +1,4 @@
-package com.paramount.animalserviceapplication;
+package com.presentation.animalserviceapplication;
 
 import lombok.Getter;
 import lombok.Setter;
